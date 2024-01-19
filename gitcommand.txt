@@ -13,3 +13,5 @@ git checkout <branch name>
 git checkout -b <branch name>
 git switches
 git switch <branch name>
+git remote -r
+git remote -a
