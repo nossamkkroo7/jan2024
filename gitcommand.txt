@@ -1,0 +1,9 @@
+touch
+clear
+git init
+git status 
+git init
+git add .
+git commit -m 
+git push origin file name 
+git log 
