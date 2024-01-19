@@ -7,3 +7,9 @@ git add .
 git commit -m 
 git push origin file name 
 git log 
+git pull 
+git branch <branch name>
+git checkout <branch name>
+git checkout -b <branch name>
+git switches
+git switch <branch name>
